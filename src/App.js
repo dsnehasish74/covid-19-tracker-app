@@ -84,10 +84,10 @@ console.log(countryInfo)
         </div>
         <div className="stats">
             <InfoBox title="Total" newcase={numeral(countryInfo.todayCases).format("0,0")} totalcase={numeral(countryInfo.cases).format("0,0")} color="red"/>
-
+             <InfoBox title="Active" newcase={numeral(countryInfo.todayCases).format("0,0")} totalcase={numeral(countryInfo.active).format("0,0")} color="blue"/>
             <InfoBox title="Recoverd" newcase={numeral(countryInfo.todayRecovered).format("0,0")} totalcase={numeral(countryInfo.recovered).format("0,0")} color="green"/>
             <InfoBox title="Deaths" newcase={numeral(countryInfo.todayDeaths).format("0,0")} totalcase={numeral(countryInfo.deaths).format("0,0")} color="grey"/>
-            <InfoBox title="Active" newcase={numeral(countryInfo.todayCases).format("0,0")} totalcase={numeral(countryInfo.active).format("0,0")} color="blue"/>
+            
         </div>
         <Map
         countries={mapCountries}
