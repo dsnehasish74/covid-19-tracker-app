@@ -55,6 +55,7 @@ function App() {
         console.log(data)
         setCountryInfo(data)
         setMapCenter([data.countryInfo.lat, data.countryInfo.long]);
+         setCasesType("cases");
         setMapZoom(4);
       })
 
