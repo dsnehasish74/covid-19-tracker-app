@@ -32,6 +32,9 @@ code {
 .grey{
   color:#90a4ae;
 }
+.infobox{
+flex:1;
+}
 .infobox_card_red{
   border-bottom: 10px solid #d32f2f;
 }
