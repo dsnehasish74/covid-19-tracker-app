@@ -33,6 +33,7 @@ code {
   color:#90a4ae;
 }
 .infobox{
+ margin:auto 10px;
 flex:1;
 }
 .infobox_card_red{
@@ -75,9 +76,6 @@ flex:1;
 @media (max-width: 500px) {
   .stats{
     overflow-x: scroll;
-  }
-  .infobox{
-    margin: auto 10px;
   }
 }
 
