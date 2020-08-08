@@ -1,5 +1,4 @@
-##Do Check This Website
-  zealous-mcnulty-8edf40.netlify.app/
+Do Check This Website [Covid-19-tracker Web App](https://zealous-mcnulty-8edf40.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
