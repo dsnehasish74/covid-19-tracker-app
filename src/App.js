@@ -103,7 +103,7 @@ console.log(countryInfo)
             <h2>Live Update of Covid Cases</h2>
               <Table data={countries}/>
           </CardContent>
-          <p>Developed by snehasish dhar</p>
+          
         </Card>
     </div>
 
