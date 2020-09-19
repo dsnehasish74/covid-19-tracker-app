@@ -1,5 +1,7 @@
 Do Check This Website [Covid-19-tracker Web App](https://zealous-mcnulty-8edf40.netlify.app/)
 
+<img src="https://user-images.githubusercontent.com/58779604/93687108-c4cef980-fad8-11ea-88ec-2872807da62e.png"></img>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
